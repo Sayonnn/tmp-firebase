@@ -1,2 +1,1 @@
-# Firebase
-website application with firebase
+Template: MERN + firebase
